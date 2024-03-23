@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Fiction_fa-solid fa-cart-shopping fa-2xs</name>
+   <tag></tag>
+   <elementGuidId>62791c0c-4a8c-4ebd-93f3-0f7cecac5486</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-solid.fa-cart-shopping.fa-2xs</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='top-nav']/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7730f35f-1003-4769-899b-ac0a1e151f4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-solid fa-cart-shopping fa-2xs</value>
+      <webElementGuid>ee821d80-9e6e-4853-8e1f-15034456beac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b930065a-48f0-4f38-bcb3-b06510663fbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-nav&quot;)/div[@class=&quot;container-fluid&quot;]/a[@class=&quot;navbar-brand ms-auto&quot;]/i[@class=&quot;fa-solid fa-cart-shopping fa-2xs&quot;]</value>
+      <webElementGuid>808863bd-a6a0-4f89-8a13-08b9d2b6d029</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='top-nav']/div/a/i</value>
+      <webElementGuid>a6bf348f-2380-4794-a806-c48a1eb33440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>956e4e41-dbf0-4726-8c87-c94b8f3581c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
